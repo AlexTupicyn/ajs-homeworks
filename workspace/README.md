@@ -30,6 +30,7 @@
 Добавьте `.gitignore`, который мы для вас [приготовили](../.gitignore).
 
 </details>
+
 ---
 
 ## Babel   ✅ 
@@ -90,6 +91,7 @@ const alive = characters.filter(item => item.health > 0);
 6. Добавьте каталог `dist` в `.gitignore`.
    
 </details>
+
 ---
 
 ## ESLint (задача со звёздочкой)
