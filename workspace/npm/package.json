@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTupicyn/ajs-homeworks.git#main"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "AlexTupicyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTupicyn/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/AlexTupicyn/ajs-homeworks/tree/main#readme"
+}
