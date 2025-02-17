@@ -119,9 +119,13 @@ game.start();
   <details>
 
     <summary>
+    
       Наверное, стоит подключать не все, а только "стартовый".
+      
     </summary>
+    
   </details>
+  
 </details>
 
 ---
